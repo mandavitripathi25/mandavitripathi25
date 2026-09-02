@@ -24,7 +24,7 @@
 |---|---|---|
 | 🔮 [Sales Forecasting Pipeline](https://github.com/mandavitripathi25/Sales_forecasting-project) | End-to-end sales forecasting pipeline with hierarchical forecasting, ensemble models, real-world data validation, and automated preprocessing. | Python · ARIMA · XGBoost · Ensemble Models |
 | 📄 [Resume Screening AI](https://github.com/mandavitripathi25/Resume-Screening-AI-project) | AI-powered resume screener that parses PDF/DOCX resumes and scores/ranks candidates against a job description. | Python · Groq LLM · PDF/DOCX Parsing |
-| 🏢 Enterprise RAG Assistant | Chat-with-your-documents assistant: semantic search, source citations, conversation memory, JWT auth, and a REST API. | Python · LangChain · Gemini · ChromaDB · FastAPI · Streamlit · Docker |
+| 🏢 [Enterprise RAG Assistant]_(https://github.com/mandavitripathi25/Enterprise-RAG-Assistant) | Chat-with-your-documents assistant: semantic search, source citations, conversation memory, JWT auth, and a REST API. | Python · LangChain · Gemini · ChromaDB · FastAPI · Streamlit · Docker |
 | 🤖 [Customer Support GPT](https://github.com/mandavitripathi25/customer-gpt-project) | AI-powered customer support assistant using Llama/OpenAI-compatible models. | Python · Streamlit · Groq API |
 | 🛍️ [Myntra Scraper](https://github.com/mandavitripathi25/mytntra-scrapper) | Web scraper for product data collection. | Python |
 
@@ -61,6 +61,6 @@
 
 <!-- Add your links below -->
 <p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mandvitri1502@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mandavi-tripathi-b30a70194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
