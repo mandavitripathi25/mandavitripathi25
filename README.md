@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech graduate from **Dr. A.P.J. Abdul Kalam Technical University, Lucknow**
 - 📚 Completed **Data Science Training** from PW (PhysicsWallah)
-- 💼 3+ years of professional experience in **Sales, MIS, and Customer Support**
+- 💼 3+ years of professional experience in **IT Executive, MIS Executive**
 - 🌱 Currently deepening my skills in **AI Engineering, Machine Learning, Data Science, and Data Analytics**
 - 🎯 Seeking opportunities as an **AI Engineer / Data Scientist / Machine Learning Engineer**
 - 💬 Ask me about Python, SQL, forecasting pipelines, or building LLM/RAG applications
