@@ -25,8 +25,7 @@
 | 🔮 [Sales Forecasting Pipeline](https://github.com/mandavitripathi25/Sales_forecasting-project) | End-to-end sales forecasting pipeline with hierarchical forecasting, ensemble models, real-world data validation, and automated preprocessing. | Python · ARIMA · XGBoost · Ensemble Models |
 | 📄 [Resume Screening AI](https://github.com/mandavitripathi25/Resume-Screening-AI-project) | AI-powered resume screener that parses PDF/DOCX resumes and scores/ranks candidates against a job description. | Python · Groq LLM · PDF/DOCX Parsing |
 
-| 🤖 [Customer Support GPT](https://github.com/mandavitripathi25/customer-gpt-project) | AI-powered customer support assistant using Llama/OpenAI-compatible models. | Python · Streamlit · Groq API |
-| 🛍️ [Myntra Scraper](https://github.com/mandavitripathi25/mytntra-scrapper) | Web scraper for product data collection. | Python |
+
 
 ---
 
