@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandavi Tripathi</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Machine Learning | AI Engineering</h3>
+<h3 align="center">Aspiring AI Engineering  | Python | SQL | Machine Learning |  Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+%26+AI+pipelines;RAG+%2B+LLM+Engineering+%7C+Forecasting+%7C+NLP;Open+to+Data+Scientist+%2F+AI+Engineer+roles" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 |---|---|---|
 | 🔮 [Sales Forecasting Pipeline](https://github.com/mandavitripathi25/Sales_forecasting-project) | End-to-end sales forecasting pipeline with hierarchical forecasting, ensemble models, real-world data validation, and automated preprocessing. | Python · ARIMA · XGBoost · Ensemble Models |
 | 📄 [Resume Screening AI](https://github.com/mandavitripathi25/Resume-Screening-AI-project) | AI-powered resume screener that parses PDF/DOCX resumes and scores/ranks candidates against a job description. | Python · Groq LLM · PDF/DOCX Parsing |
-| 🏢 [Enterprise RAG Assistant]_(https://github.com/mandavitripathi25/Enterprise-RAG-Assistant) | Chat-with-your-documents assistant: semantic search, source citations, conversation memory, JWT auth, and a REST API. | Python · LangChain · Gemini · ChromaDB · FastAPI · Streamlit · Docker |
+
 | 🤖 [Customer Support GPT](https://github.com/mandavitripathi25/customer-gpt-project) | AI-powered customer support assistant using Llama/OpenAI-compatible models. | Python · Streamlit · Groq API |
 | 🛍️ [Myntra Scraper](https://github.com/mandavitripathi25/mytntra-scrapper) | Web scraper for product data collection. | Python |
 
